@@ -1,11 +1,12 @@
 {
+  "repo": "g0v/summit.g0v.tw",
   "status": "beta",
   "name": "summit.g0v.tw",
-  "name_zh": "啥咪零時政府官網",
-  "description": "summit g0v.tw website",
-  "description_zh": "啥咪零時政府官網",
-  "document": "http://github.com/g0v/summit.g0v.tw",
+  "name_zh": "零時政府雙年會官網",
+  "description": "Biennial summit of g0v invites civic hackers all over the world to exchange collaboration experience of citizen engagement.",
+  "description_zh": "g0v每兩年舉辦一次高峰會，聚集世界各地的公民黑客社群，交流協作參與的各式經驗。",
   "homepage": "http://summit.g0v.tw/",
+  "document": "http://github.com/g0v/summit.g0v.tw",
   "repository": {
     "type": "git",
     "url": "https://github.com/g0v/summit.g0v.tw"
@@ -24,5 +25,10 @@
   ],
   "audience": [
     "public"
-  ]
+  ],
+  "author": "ttcat",
+  "thumbnail": "https://raw.githubusercontent.com/Legendream/summit.g0v.tw/2016/summit-01.png",
+  "contributors": "Claire",
+  "partOf": "awesome-g0v",
+  "needs": "txt"
 }
